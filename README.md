@@ -1,4 +1,4 @@
-# Hi 👋, I'm [HXL]
+# Hi 👋, I'm HXL
 
 I'm a software engineering student at Polytechnique Montreal. I enjoy the constant learning that comes with the field of technology.
 
