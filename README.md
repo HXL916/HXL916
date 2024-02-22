@@ -1,6 +1,6 @@
-# Hi 👋, I'm HXL
+# Hi 👋
 
-I'm a software engineering student at Polytechnique Montreal. I enjoy the constant learning that comes with the field of technology.
+I'm a software engineering student at Polytechnique Montreal.
 
 ## About Me
 - 🎓 Pursuing a Bachelor's degree in Software Engineering, I am eager to learn new programming languages and frameworks.
