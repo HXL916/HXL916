@@ -3,9 +3,9 @@
 I'm a software engineering student at Polytechnique Montreal.
 
 ## About Me
-- 🎓 Pursuing a Bachelor's degree in Software Engineering, I am eager to learn.
+- 🎓 Pursuing a Master's degree in Software Engineering.
 - 🌐 I have interest in web development and enjoy creating web applications using Angular and Vue.js.
-- 🎮 I explore game development with Unity and C#.
+- 🎮 I explore game development with Unity, C++ and C#.
 - 🤖 I'm always experimenting with Python to build small projects that can solve everyday problems.
 
 ## Experience
