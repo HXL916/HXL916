@@ -3,10 +3,10 @@
 I'm a software engineering student at Polytechnique Montreal.
 
 ## About Me
-- 🎓 Pursuing a Master's degree in Software Engineering.
-- 🌐 I have interest in web development and enjoy creating web applications using Angular and Vue.js.
-- 🎮 I explore game development with Unity, C++ and C#.
-- 🤖 I'm always experimenting with Python to build small projects that can solve everyday problems.
+-  Pursuing a Master's degree in Software Engineering.
+-  I have interest in web development and enjoy creating web applications using Angular and Vue.js.
+-  I explore game development with Unity, C++ and C#.
+-  I'm always experimenting with Python to build small projects that can solve everyday problems.
 
 ## Experience
 * ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
